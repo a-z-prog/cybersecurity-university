@@ -15,3 +15,8 @@
 - [ ] Week 8
 - [ ] Week 9
 - [ ] Week 10
+
+## Result Sheet 
+Assignment|Presentation|CT|Profiling|
+----------|------------|--|---------|
+ 🔄 In Progress|🔒Locked|🔒Locked|🔒Locked|
